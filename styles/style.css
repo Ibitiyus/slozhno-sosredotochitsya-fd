@@ -57,6 +57,7 @@
   gap: 10px;
   color: var(--accent-color, #ff0070);
   line-height: 25px;
+  text-transform: uppercase;
 }
 
 .header__rec::after {
