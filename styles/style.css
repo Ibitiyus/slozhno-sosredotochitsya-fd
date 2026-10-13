@@ -49,6 +49,7 @@
 }
 
 .header__rec {
+  text-transform: uppercase;
   position: absolute;
   inset-block-start: var(--page-padding, 10px);
   inset-inline-end: calc(var(--page-padding, 10px) + 9px);
